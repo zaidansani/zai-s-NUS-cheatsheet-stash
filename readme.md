@@ -1,16 +1,16 @@
 # zai's NUS stash
 
 hi. i'm [m. zaidan](https://www.linkedin.com/in/mzaidanbsani/), a compsci student in NUS.
-currently i'm a y1 student (enrolled 23/24)
+currently i'm a y1 student (enrolled 23/24). 
 
 not an outstanding student (not straight As!!!), but here are my notes anyways
 saw a few seniors put theirs online, and i was extremely grateful, so here goes nothing
 
-i also made a module planner on google sheets, which may be helpful if you need it. there's one for CS students, and a more general one as well. you can find it [here](https://docs.google.com/spreadsheets/d/1K3Uwi-M5q3lUXoWpmeIonP6WZ_Nedx9rc3auVxN--cQ/edit?usp=sharing).
+i also made a module planner on google sheets, which may be helpful if you need it. there's one for CS students, and a more general one as well. you can find it [here](https://docs.google.com/spreadsheets/d/1K3Uwi-M5q3lUXoWpmeIonP6WZ_Nedx9rc3auVxN--cQ/edit?usp=sharing). it's supposed to help for planning for double counting and keeping track of your seniority and stuff, but it is pretty much a permanent work in progress. do lmk if there's any changes i shld make!
+
+my telegram handle is [@mzaidanbs](https://t.me/mzaidanbs). be nice pls thanks
 
 my module reviews are also in the file ```modreviews.md``` if you need some info for the courses, might be helpful i guess.
-
-
 
 | code       |                        |                                 |
 |----------|-------------------------|----------------------------------|
