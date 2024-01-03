@@ -4,7 +4,7 @@ hi. i'm [m. zaidan](https://www.linkedin.com/in/mzaidanbsani/), a compsci studen
 currently i'm a y1 student (enrolled 23/24). 
 
 not an outstanding student (not straight As!!!), but here are my notes anyways
-saw a few seniors put theirs online, and i was extremely grateful, so here goes nothing
+saw a few seniors put theirs online, and i was extremely grateful, so here goes nothing. extremely big shoutout to @jovyntls and her [cheatsheets](https://github.com/jovyntls/cheatsheets) which helped me understand how to start making mine and were a good frame of reference.
 
 i also made a module planner on google sheets, which may be helpful if you need it. there's one for CS students, and a more general one as well. you can find it [here](https://docs.google.com/spreadsheets/d/1K3Uwi-M5q3lUXoWpmeIonP6WZ_Nedx9rc3auVxN--cQ/edit?usp=sharing). it's supposed to help for planning for double counting and keeping track of your seniority and stuff, but it is pretty much a permanent work in progress. do lmk if there's any changes i shld make!
 
