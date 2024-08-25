@@ -1,20 +1,24 @@
 # zai's NUS stash
 
 hi. i'm [m. zaidan](https://www.linkedin.com/in/mzaidanbsani/), a compsci student in NUS.
-currently i'm a y1 student (enrolled 23/24). 
+currently i'm a y2 student (enrolled 23/24). 
 
 not an outstanding student (not straight As!!!), but here are my notes anyways
 saw a few seniors put theirs online, and i was extremely grateful, so here goes nothing. extremely big shoutout to @jovyntls and her [cheatsheets](https://github.com/jovyntls/cheatsheets) which helped me understand how to start making mine and were a good frame of reference.
 
 i also made a module planner on google sheets, which may be helpful if you need it. there's one for CS students, and a more general one as well. you can find it [here](https://docs.google.com/spreadsheets/d/1K3Uwi-M5q3lUXoWpmeIonP6WZ_Nedx9rc3auVxN--cQ/edit?usp=sharing). it's supposed to help for planning for double counting and keeping track of your seniority and stuff, but it is pretty much a permanent work in progress. do lmk if there's any changes i shld make!
 
-my module reviews are also in the file ```modreviews.md``` if you need some info for the courses, might be helpful i guess.
+my module reviews are also in the file ```modreviews.md``` if you need some info for the courses, might be helpful i guess. (Not updated)
 
 | code       |                        |                                 |
 |----------|-------------------------|----------------------------------|
 | CS1101S  | Programming Methodology | Cheatsheet for midterms & finals |
 | CS1231S  | Discrete Mathematics    | Cheatsheet for midterms & finals |
+| CS2030S  | Programming Methodology II | Cheatsheet for midterms, finals and PAs |
+| CS2040S  | Data Structures and Algorithms | Cheatsheet for midterms & finals |
 | MA1521   | Calculus for Computing  |  Cheatsheet for finals, personal notes |
+| MA1522   | Linear Algebra for Computing | Note binder |
+| ST1131   | Introduction to Statistics and Statistical Computing | Cheatsheet for finals and midterms (Practical) |
 
 **note:**
 
