@@ -1,7 +1,7 @@
 # zai's NUS stash
 
 hi. i'm [m. zaidan](https://www.linkedin.com/in/mzaidanbsani/), a compsci student in NUS.
-currently i'm a y2 student (enrolled 23/24). 
+currently i'm a rising penultimate year student (enrolled 23/24, (planned) graduation may'26). 
 
 not an outstanding student (not straight As!!!), but here are my notes anyways
 saw a few seniors put theirs online, and i was extremely grateful, so here goes nothing. extremely big shoutout to @jovyntls and her [cheatsheets](https://github.com/jovyntls/cheatsheets) which helped me understand how to start making mine and were a good frame of reference.
